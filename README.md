@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DARKNIGHT-20
-- 👀 I’m interested in Data Analysis with Rstudio 
+- 👀 I’m interested in Data Analysis with Rstudio and I am new to Coding. 
 - 🌱 I’m currently learning Python and Rstudio
-- 💞️ I’m looking to collaborate on cleaning data and a reseach project with Rstudio
-- 📫 How to reach me at Personal1295@outlook
+- 💞️ I’m looking to collaborate on cleaning data and a reseach project with Rstudio. I would like to learn python. 
+- 📫 How to reach me at Personal1295@outlook.com
 - 😄 Pronouns: THEMAN
 - ⚡ Fun fact: COWBOYS-----------SUCKS 
 
